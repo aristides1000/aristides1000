@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Arístides Molina 👋
+
+![Perfil Logo](/images/logo.png)
+
+###### Hello friend, it is a pleasure to meet you, I am a Computer Engineer, Fullstack Software Developer, and Graphic designer, I have developed many interesting projects at the Backend level and at the Frontend level, and I am in search of new challenges and experiences to develop that do the world a better place, I love Web design, Software Development, problem-solving and much more, some of my programming languages or development platforms are HTML5, CSS3, Javascript, PHP, Angular, Bootstrap, MySQL, PostgreSQL, JQuery, Photoshop, Illustrator, AfterEffects, Among others ...
 
 <!--
 **aristides1000/aristides1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
