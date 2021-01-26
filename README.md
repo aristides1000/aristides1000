@@ -17,7 +17,7 @@
 - problem-solving 🧮 and
 - much more 🎆
 
-#### some of my programming languages or development platforms are
+#### <img align='right' src="images/programmer.gif"> some of my programming languages or development platforms are
 
 - HTML5,
 - CSS3,
