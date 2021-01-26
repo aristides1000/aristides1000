@@ -3,9 +3,9 @@
 ##### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a Computer Engineer, Fullstack Software Developer, and Graphic designer, I have developed many interesting projects at the Backend level and at the Frontend level, and I am in search of new challenges and experiences to develop that do the world a better place, I love Web design, Software Development, problem-solving and much more, some of my programming languages or development platforms are HTML5, CSS3, Javascript, PHP, Angular, Bootstrap, MySQL, PostgreSQL, JQuery, Photoshop, Illustrator, AfterEffects, Among others ... :boat: :fireworks: :milky_way:
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristides1000&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristides1000&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can know me a little more through my social networks :smile:
 
