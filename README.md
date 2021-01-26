@@ -5,6 +5,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristides1000)](https://github.com/anuraghazra/github-readme-stats)
+
 ### You can know me a little more through my social networks :smile:
 
 * My [Instagram](https://www.instagram.com/aristides_1000/) :+1:
