@@ -40,7 +40,7 @@
 
 ### You can know me a little more through my social networks :smile:
 
-* My [Instagram](https://www.instagram.com/aristides_1000/) :+1: <img align='right' src="images/programmer.gif" width="300">
+* My [Instagram](https://www.instagram.com/aristides_1000/) :+1: <img align='right' src="images/social-networks.gif" width="300">
 * My [Facebook](https://www.facebook.com/aristidesjose.molinaperez) :star:
 * My [twitter](https://twitter.com/aristides_1000) :sparkles:
 * My [linkedin](https://www.linkedin.com/in/aristides-jose-molina-perez-09b0579a/) :notes:
