@@ -19,7 +19,7 @@
 
 #### some of my programming languages or development platforms are
 
-- HTML5, <img align='right' src="images/programmer.gif">
+- HTML5, <img align='right' src="images/programmer.gif" width="550">
 - CSS3,
 - Javascript,
 - PHP,
