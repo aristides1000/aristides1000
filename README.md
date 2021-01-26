@@ -10,6 +10,8 @@
 
 ### I am in search of new challenges and experiences to develop that do the world a better place
 
+## I'm currently on the lookout for new opportunities 💪
+
 - I love Web design 👨‍🎨,
 - Software Development 👨🏽‍💻,
 - problem-solving 🧮 and
