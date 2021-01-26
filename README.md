@@ -2,9 +2,9 @@
 
 ![Perfil Logo](/images/foto-perfil.png)
 
-
-![Perfil Logo](/images/Hi-hand-small.gif)
 ##### Hello friend, it is a pleasure to meet you, I am a Computer Engineer, Fullstack Software Developer, and Graphic designer, I have developed many interesting projects at the Backend level and at the Frontend level, and I am in search of new challenges and experiences to develop that do the world a better place, I love Web design, Software Development, problem-solving and much more, some of my programming languages or development platforms are HTML5, CSS3, Javascript, PHP, Angular, Bootstrap, MySQL, PostgreSQL, JQuery, Photoshop, Illustrator, AfterEffects, Among others ... :boat: :fireworks: :milky_way:
+
+[! [Estadísticas de github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = aristides1000 )] (https://github.com/anuraghazra/github-readme-stats)
 
 ### You can know me a little more through my social networks :smile:
 
