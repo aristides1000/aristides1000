@@ -6,7 +6,7 @@
 - Fullstack Software Developer 👨🏽‍💻, and 
 - Graphic designer 🎨
 
-##### I have developed many interesting projects at the Backend level 👨🏽‍💻 and at the Frontend level 🎨, and
+##### <img align='right' src="images/World-love-small.gif"> I have developed many interesting projects at the Backend level 👨🏽‍💻 and at the Frontend level 🎨, and
 
 ### I am in search of new challenges and experiences to develop that do the world a better place
 
