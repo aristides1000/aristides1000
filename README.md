@@ -1,4 +1,4 @@
-# <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
+# <img style="border-radius: 50%;" src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
 ![Perfil Logo](/images/foto-perfil.png)
 
