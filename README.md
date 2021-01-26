@@ -11,9 +11,9 @@
 ### I am in search of new challenges and experiences to develop that do the world a better place
 
 - I love Web design 👨‍🎨,
-- Software Development,
-- problem-solving and
-- much more
+- Software Development 👨🏽‍💻,
+- problem-solving 🧮 and
+- much more 🎆
 
 #### some of my programming languages or development platforms are
 
@@ -29,7 +29,7 @@
 - Photoshop,
 - Illustrator,
 - AfterEffects,
-- Among others ...
+- Among others ✨ ...
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
