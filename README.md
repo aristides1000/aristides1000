@@ -1,11 +1,11 @@
-<img align='center' src="images/header-readme-file-particles-edit.gif" style='width: 100%;'>
+<img align='center' src="https://giphy.com/gifs/Dhz72zD21wtmSkUg9U/html5" width='100%'>
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
 #### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a
 
 - Computer Engineer 🖥️,
-- Fullstack Software Developer 👨🏽‍💻, and 
+- Fullstack Software Developer 👨🏽‍💻, and
 - Graphic designer 🎨
 
 ##### <img align='right' src="images/World-love-small.gif"> I have developed many interesting projects at the Backend level 👨🏽‍💻 and at the Frontend level 🎨, and
