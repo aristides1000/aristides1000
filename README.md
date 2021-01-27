@@ -1,4 +1,4 @@
-<img src="images/header-readme-file-particles-edit.gif">
+<img src="images/header-readme-file-particles-edit.gif" width="100%">
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
