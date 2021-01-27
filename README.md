@@ -1,4 +1,4 @@
-<img align='center' src="https://giphy.com/gifs/Dhz72zD21wtmSkUg9U/html5" width='100%'>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
