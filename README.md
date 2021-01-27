@@ -1,6 +1,6 @@
 <img src="images/header-readme-file-particles-edit.gif" width="100%">
 
-# <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
+# <img src="images/Hi-hand-small.gif"> Hi, I'm Aristides Molina
 
 #### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a
 
