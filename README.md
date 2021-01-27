@@ -1,3 +1,5 @@
+<img align='center' src="images/foto-perfil.png">
+
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
 #### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a
