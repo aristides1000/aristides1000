@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/Dhz72zD21wtmSkUg9U/giphy.gif" width="230">
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
