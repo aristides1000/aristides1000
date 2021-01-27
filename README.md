@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://media.giphy.com/media/Dhz72zD21wtmSkUg9U/giphy.gif)
+<iframe src="https://giphy.com/embed/Dhz72zD21wtmSkUg9U" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Dhz72zD21wtmSkUg9U">via GIPHY</a></p>
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Arístides Molina
 
