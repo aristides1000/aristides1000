@@ -57,10 +57,15 @@
 
 <br>
 
+## Status 🤩
+### <i>I am currently available to be hired and open to new opportunities.</i> 🗽
+
+<br>
+
 ## location 🌎
 #### Caracas ⛰️, Venezuela ​🇻🇪​🏝️​🌄​🏝️​🏞️​
 
-
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
