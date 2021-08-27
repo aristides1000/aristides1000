@@ -4,11 +4,11 @@
 
 #### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a
 
-- Computer Engineer 🖥️,
-- Fullstack Software Developer 👨🏽‍💻, and
+- <i>Computer Engineer</i> 🖥️,
+- <i>Fullstack Software Developer</i> 👨🏽‍💻, and
 - Graphic designer 🎨
 
-##### <img align='right' src="images/World-love-small.gif"> I have developed many interesting projects at the Backend level 👨🏽‍💻 and at the Frontend level 🎨, and
+##### <img align='right' src="images/World-love-small.gif"> I have developed many interesting projects at the <i>Backend</i> level 👨🏽‍💻 and at the <i>Frontend</i> level 🎨, and
 
 ### I am in search of new challenges and experiences to develop that do the world a better place
 
