@@ -40,20 +40,16 @@
 
 ## Biography ✍
 
-#### Hello! My name is Arístides José Molina and I am a full-stack software engineer specializing in the use of JavaScript, React, Redux, and Rails to create software solutions for all types of companies worldwide.
+#### Hi there! My name is Arístides José Molina and I am a full-stack software engineer specialized in JavaScript, React, Redux, and Rails creating solutions such as the telephone banking application that I developed with Asterisk for the bank of Venezuela, the most important bank from that country.
 
-#### I am currently completing courses at Microverse, a great remote software development experience that allows developers worldwide to program and build projects together. I have spent the last few months completely immersed and fully in remote development, building all kinds of applications, from landing pages to Rails APIs.
+#### I am completing courses on Microverse, a remote software development experience with developers from all over the world. I have built all kinds of applications, such as landing pages to Rails API.
 
-#### Before starting this exciting adventure at Microverse, I worked in the Software development department of a telecommunications company. While there I developed a monetary asset management application for Banco de Venezuela, one of the most important banks in that country. During the development of that system and others, I learned the skills that I now use every day as a developer: problem-solving, effective communication, multitasking, and more. I regularly won awards for software developers within the company and now I bring the same kind of energy to all my work, including my growth as a software engineer.
+#### Before Microverse, I worked in the Software development department of many companies. Working, I learned problem-solving, effective communication, multitasking, and more. In those jobs, I won awards as a software developer for my performance.
 
-#### I've spent the last few months working remotely and asynchronously with people in seven different time zones, so when I read your post on LinkedIn looking for experienced remote developers, I immediately saw myself in the job description.
+#### I've worked remotely and asynchronously with people in seven different time zones, so when I read your post on LinkedIn looking for experienced remote developers, I immediately saw myself in the job description.
 
-- Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3.
-- Back-End: Ruby, Rails, MySQL.
-- Tools & Methods: Git, GitHub, Heroku, Netlify, Mobile Development, RSpec, TDD, Chrome Dev Tools.
-- Professional: Remote Pair-Programming, Teamwork, Mentoring.
+#### I would love to schedule a 15-minute Zoom call to discuss the importance of remote software development. Would you have some time next week?
 
-#### I would love to schedule a 15-minute Zoom call to discuss the importance of remote software development and how it represents a competitive advantage for companies. Would you have some time next week?
 
 <br>
 
