@@ -67,6 +67,17 @@
 
 <br>
 
+## My projects and Repositories ✏️
+
+* [MTG game articles](https://github.com/aristides1000/mtg-game-articles-Lifestyle-articles-ror-capstone-project/) 🎮
+* [To Do List](https://github.com/aristides1000/to-do-list/) ✅
+* [Awesome books](https://github.com/aristides1000/awesome-books-javascript-microverse-project/) 📚
+* [Travel agency](https://github.com/aristides1000/html_css_capstone_online_shop_travel_agency/) 🛫
+* [Tic Tac Toe](https://github.com/aristides1000/tic_tac_toe_project/) ⚔️
+* [Advanced Building Blocks Enumerable](https://github.com/aristides1000/advanced_building_blocks_enumerables/) 🔢
+
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aristides1000&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristides1000&theme=midnight-purple&show_icons=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
