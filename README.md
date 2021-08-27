@@ -2,7 +2,7 @@
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Aristides Molina
 
-#### <img align='left' src="images/foto-perfil.png"> Hello friend, it is a pleasure to meet you, I am a
+#### <img align='left' src="images/foto_perfil.jpg"> Hello friend, it is a pleasure to meet you, I am a
 
 - <i>Computer Engineer</i> 🖥️,
 - <i>Fullstack Software Developer</i> 👨🏽‍💻, and
