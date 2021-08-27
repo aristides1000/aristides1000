@@ -2,13 +2,13 @@
 
 # <img src="images/Hi-hand-small.gif"> Hi, I'm Aristides Molina
 
-#### <img align='left' src="images/foto_perfil.jpg"> Hello friend, it is a pleasure to meet you, I am a
+#### <img align='left' src="images/foto_perfil.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello friend, it is a pleasure to meet you, I am a
 
-- <i>Computer Engineer</i> 🖥️,
-- <i>Fullstack Software Developer</i> 👨🏽‍💻, and
-- Graphic designer 🎨
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp; <i>Computer Engineer</i> 🖥️, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp; <i>Fullstack Software Developer</i> 👨🏽‍💻, and <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp; Graphic designer 🎨
 
-##### <img align='right' src="images/World-love-small.gif"> I have developed many interesting projects at the <i>Backend</i> level 👨🏽‍💻 and at the <i>Frontend</i> level 🎨, and
+#### <img align='right' src="images/World-love-small.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have developed many interesting projects at the <i>Backend</i> level 👨🏽‍💻 and at the <i>Frontend</i> level 🎨, and
 
 ### I am in search of new challenges and experiences to develop that do the world a better place
 
